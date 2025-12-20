@@ -70,6 +70,20 @@ Y-AXIS:
 <img width="1539" height="819" alt="Screenshot 2025-12-20 182527" src="https://github.com/user-attachments/assets/67ab48fa-4cd2-49c8-9987-7cff82451ac1" />
 <img width="1537" height="810" alt="Screenshot 2025-12-20 182543" src="https://github.com/user-attachments/assets/b36b6142-bb98-42a9-8d8c-130e70dd1d20" />
 
+Z-AXIS:
+
+<img width="913" height="497" alt="Screenshot 2025-12-20 182815" src="https://github.com/user-attachments/assets/5a1b9d19-89aa-4fc0-89fa-fa6cf87dbc97" />
+
+COMPLETE ASSEMBLY:
+
+<img width="935" height="499" alt="image" src="https://github.com/user-attachments/assets/48e936ee-97bc-4c5a-9786-3a7f4137fcb9" />
+<img width="934" height="495" alt="Screenshot 2025-12-20 182937" src="https://github.com/user-attachments/assets/26a8f14e-914e-444d-9de7-413365fbe058" />
+<img width="933" height="494" alt="Screenshot 2025-12-20 182948" src="https://github.com/user-attachments/assets/838fb36f-8d42-4cec-98c4-bce5a1584d50" />
+
+WORKING:
+
+<img width="1536" height="820" alt="Screenshot 2025-12-20 183126" src="https://github.com/user-attachments/assets/86d24a8b-f4c1-4e32-96f1-da7a21f5c689" />
+
 
 ### Name: AMAN NAIR
 ### Register Number: 25010741
