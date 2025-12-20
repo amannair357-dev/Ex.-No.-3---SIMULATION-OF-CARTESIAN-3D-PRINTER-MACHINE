@@ -60,8 +60,19 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+X-AXIS:
+
+<img width="1537" height="816" alt="Screenshot 2025-12-20 182403" src="https://github.com/user-attachments/assets/91dca162-8128-4197-bdc3-c920d03d8d81" />
+<img width="1541" height="819" alt="Screenshot 2025-12-20 182424" src="https://github.com/user-attachments/assets/60edd0c9-59c4-4210-b4ab-84e14051c525" />
+
+Y-AXIS:
+
+<img width="1539" height="819" alt="Screenshot 2025-12-20 182527" src="https://github.com/user-attachments/assets/67ab48fa-4cd2-49c8-9987-7cff82451ac1" />
+<img width="1537" height="810" alt="Screenshot 2025-12-20 182543" src="https://github.com/user-attachments/assets/b36b6142-bb98-42a9-8d8c-130e70dd1d20" />
+
+
+### Name: AMAN NAIR
+### Register Number: 25010741
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
